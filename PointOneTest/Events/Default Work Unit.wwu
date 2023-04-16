@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{99EC0AFD-7F64-4959-A78B-FAEF6E27D792}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{99EC0AFD-7F64-4959-A78B-FAEF6E27D792}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Event" ID="{138764EE-77DD-4212-9E67-7DAC2F9050E6}">
+					<ChildrenList>
+						<Action Name="" ID="{9EA9131B-E6C0-4238-8C38-FC6804881237}" ShortID="363126554">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="63 River_near field_LOOP 11" ID="{2178FA46-DE46-407A-AA3B-0434C6854C0D}" WorkUnitID="{21BA8360-EF6B-4B0D-A57B-D492E35819EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Event" ID="{31282FEC-F2AD-4114-B582-6EB83BB494AE}">
+					<ChildrenList>
+						<Action Name="" ID="{690D1D0C-8633-44F1-A94F-C860CCAE08BE}" ShortID="1060219388">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="3"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="63 River_near field_LOOP 11" ID="{2178FA46-DE46-407A-AA3B-0434C6854C0D}" WorkUnitID="{21BA8360-EF6B-4B0D-A57B-D492E35819EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

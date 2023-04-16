@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/",
+   "SourceFilesRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/.cache/Mac/",
+   "SoundBanksRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/GeneratedSoundBanks/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/GeneratedSoundBanks/Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "2754342975",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

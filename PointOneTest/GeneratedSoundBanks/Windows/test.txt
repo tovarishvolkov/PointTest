@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1927605590	Play_Event			\Default Work Unit\Play_Event	
+	2904546416	Stop_Event			\Default Work Unit\Stop_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	662127427	63 River_near field_LOOP 11	Z:\Volumes\Library\UnrealProjects\PointTest 4.27\PointOneTest\.cache\Windows\SFX\63 River_near field_LOOP 11_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\test\63 River_near field_LOOP 11		14080044
+

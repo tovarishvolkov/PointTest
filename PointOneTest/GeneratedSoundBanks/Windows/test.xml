@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/</ProjectRoot>
+		<SourceFilesRoot>/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/PointTest 4.27/PointOneTest/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3157003241" GUID="{F463F9F6-7538-4DBB-9FC5-465037ABB51D}" Language="SFX" Hash="3232795267">
+			<ObjectPath>\SoundBanks\Default Work Unit\test</ObjectPath>
+			<ShortName>test</ShortName>
+			<Path>test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1927605590" Name="Play_Event" ObjectPath="\Events\Default Work Unit\Play_Event" GUID="{138764EE-77DD-4212-9E67-7DAC2F9050E6}" MaxAttenuation="3000." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="662127427" Language="SFX">
+							<ShortName>63 River_near field_LOOP 11.WAV</ShortName>
+							<Path>SFX/63 River_near field_LOOP 11_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2904546416" Name="Stop_Event" ObjectPath="\Events\Default Work Unit\Stop_Event" GUID="{31282FEC-F2AD-4114-B582-6EB83BB494AE}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
